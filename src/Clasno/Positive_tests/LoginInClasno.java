@@ -11,7 +11,7 @@ import static org.testng.Assert.assertEquals;
  * Created by S&M on 7/28/2016.
  */
 public class LoginInClasno {
-    String driver_path="/lib/chromedriver.exe";
+    String driver_path="./lib/chromedriver.exe";
     @Test
     public void LoginInClasno () {
         System.setProperty("webdriver.chrome.driver", driver_path );

@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bec973c-eb54-4594-8adf-0542111a8b3c" name="Default" comment="Test is ready">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" afterPath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno.class" afterPath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Positive_tests/ChangeLanguage.class" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/ChangeLanguage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Positive_tests/LoginInClasno.class" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/LoginInClasno.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Positive_tests/MakeQuestion.class" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/MakeQuestion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_negatine_tests.class" afterPath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_negatine_tests.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_possitive_tests.class" afterPath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_possitive_tests.class" />
+    <list default="true" id="7bec973c-eb54-4594-8adf-0542111a8b3c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Negative_tests/LoginInClasno.class" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Negative_tests/LoginInClasno.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/ChangeLanguage.class" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/ChangeLanguage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/LoginInClasno.class" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/LoginInClasno.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/MakeQuestion.class" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/MakeQuestion.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/testng-failed.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/emailable-report.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/index.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.ChangeLanguage.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.ChangeLanguage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.LoginInClasno.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.LoginInClasno.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.MakeQuestion.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.MakeQuestion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-failed.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-results.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Suites/test.xml" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Suites/test.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" afterPath="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" />
@@ -49,7 +34,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -62,8 +47,8 @@
       <file leaf-file-name="LoginInClasno.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+            <state relative-caret-position="136">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -72,8 +57,8 @@
       <file leaf-file-name="ChangeLanguage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            <state relative-caret-position="-56">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -102,18 +87,18 @@
       <file leaf-file-name="LoginInClasno.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+            <state relative-caret-position="85">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MakeQuestion.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MakeQuestion.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="34">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -173,11 +158,11 @@
         <option value="$PROJECT_DIR$/src/Suites/test.xml" />
         <option value="$PROJECT_DIR$/README.mdgit" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" />
         <option value="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" />
         <option value="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" />
         <option value="$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java" />
-        <option value="$PROJECT_DIR$/build.xml" />
       </list>
     </option>
   </component>
@@ -240,15 +225,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test-Report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestNGreport" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Clasno" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Positive_tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mariya_Polazhynets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Clasno" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Negative_tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -772,17 +835,32 @@
       <option name="presentableId" value="Default" />
       <updated>1469114933161</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test is ready">
+      <created>1470761978136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470761978136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test is ready">
+      <created>1470762716712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470762716712</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_S&amp;M_IdeaProjects_Mariya_Polazhynets_test_xml - 2016.08.09 at 12h 24m 57s.xml">
+    <history-entry file="C__Users_S&amp;M_IdeaProjects_Mariya_Polazhynets_test_xml - 2016.08.09 at 20h 00m 47s.xml">
       <configuration name="C:/Users/S&amp;M/IdeaProjects/Mariya_Polazhynets/test.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ItemGetsIntoCart - 2016.07.28 at 15h 43m 14s.xml">
-      <configuration name="ItemGetsIntoCart" configurationId="TestNG" />
+    <history-entry file="C__Users_S&amp;M_IdeaProjects_Mariya_Polazhynets_test_xml - 2016.08.09 at 20h 01m 24s.xml">
+      <configuration name="C:/Users/S&amp;M/IdeaProjects/Mariya_Polazhynets/test.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ItemGetsIntoCart - 2016.07.28 at 15h 47m 26s.xml">
-      <configuration name="ItemGetsIntoCart" configurationId="TestNG" />
+    <history-entry file="C__Users_S&amp;M_IdeaProjects_Mariya_Polazhynets_test_xml - 2016.08.09 at 20h 14m 00s.xml">
+      <configuration name="C:/Users/S&amp;M/IdeaProjects/Mariya_Polazhynets/test.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="LoginInClasno - 2016.07.28 at 18h 51m 17s.xml">
       <configuration name="LoginInClasno" configurationId="TestNG" />
@@ -808,32 +886,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44293016" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.30635402" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32423207" sideWeight="0.39183056" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.693646" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32423207" sideWeight="0.60816944" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.68986386" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18078668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18078668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32423207" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1117,38 +1195,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1161,6 +1207,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1230,6 +1308,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>selenium-server-standalone-2.53.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
