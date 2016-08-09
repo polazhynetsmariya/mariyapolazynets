@@ -12,9 +12,10 @@ import static org.testng.Assert.assertEquals;
  * Created by S&M on 7/28/2016.
  */
 public class ChangeLanguage{
+    String driver_path="/lib/chromedriver.exe";
         @Test
         public void LoginInClasno () {
-            System.setProperty("webdriver.chrome.driver", "C://Users//S&M//IdeaProjects//Mariya_Polazhynets//lib//chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", driver_path);
             WebDriver driver = new ChromeDriver();
             driver.get("http://clasno.com.ua/");
             driver.findElement(By.id("login_form")).click();

@@ -1,76 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bec973c-eb54-4594-8adf-0542111a8b3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/bullet_point.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/collapseall.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/failed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/navigator-bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/passed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/skipped.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/ChangeLanguage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/LoginInClasno.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/MakeQuestion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_negatine_tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_possitive_tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/chromedriver.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/selenium-server-standalone-2.53.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Negative_tests/LoginInClasno.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/ChangeLanguage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/LoginInClasno.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Clasno/Positive_tests/MakeQuestion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Rozetka/com/ua/Rozetka_negatine_tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Rozetka/com/ua/Rozetka_possitive_tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mariya_Polazhynets.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/testng-failed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/emailable-report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.ChangeLanguage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.LoginInClasno.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.MakeQuestion.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/Chrome_Tests.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/groups.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods-alphabetical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods-not-run.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/reporter-output.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/testng.xml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/toc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-failed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-reports.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-reports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-results.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Mariya_Polazhynets/Suites/test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Rozetka/com/ua/Rozetka_negatine_tests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Rozetka/com/ua/Rozetka_possitive_tests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Suites/test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.xml" />
+    <list default="true" id="7bec973c-eb54-4594-8adf-0542111a8b3c" name="Default" comment="Test is ready">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" afterPath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno$LoginWithWrongPass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno.class" afterPath="$PROJECT_DIR$/bin/Clasno/Negative_tests/LoginInClasno.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Positive_tests/ChangeLanguage.class" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/ChangeLanguage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Positive_tests/LoginInClasno.class" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/LoginInClasno.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Clasno/Positive_tests/MakeQuestion.class" afterPath="$PROJECT_DIR$/bin/Clasno/Positive_tests/MakeQuestion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_negatine_tests.class" afterPath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_negatine_tests.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_possitive_tests.class" afterPath="$PROJECT_DIR$/bin/Rozetka/com/ua/Rozetka_possitive_tests.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/testng-failed.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/Tests/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/emailable-report.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/index.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Negative_tests.LoginInClasno.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.ChangeLanguage.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.ChangeLanguage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.LoginInClasno.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.LoginInClasno.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.MakeQuestion.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/junitreports/TEST-Clasno.Positive_tests.MakeQuestion.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods.html" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/old/Tests/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-failed.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-results.xml" afterPath="$PROJECT_DIR$/Test-Report/TestNGreport/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" afterPath="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java" afterPath="$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java" />
     </list>
     <ignored path="Mariya_Polazhynets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,38 +49,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Mariya_Polazhynets.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mariya_Polazhynets.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rozetka_possitive_tests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Rozetka/com/ua/Rozetka_possitive_tests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Suites/test.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,11 +59,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="LoginInClasno.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeLanguage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,8 +102,18 @@
       <file leaf-file-name="LoginInClasno.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="44" />
+            <state relative-caret-position="43">
+              <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MakeQuestion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -213,13 +168,16 @@
         <option value="$PROJECT_DIR$/src/Clasno/Negative_tests/ItemGetsIntoCart.java" />
         <option value="$PROJECT_DIR$/src/Clasno/Possitive_Tests/MakeQuestion.java" />
         <option value="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginWithWrongEmail.java" />
-        <option value="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" />
         <option value="$PROJECT_DIR$/src/build.xml" />
         <option value="$PROJECT_DIR$/test.xml" />
         <option value="$PROJECT_DIR$/src/Suites/test.xml" />
-        <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/README.mdgit" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java" />
+        <option value="$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java" />
+        <option value="$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java" />
+        <option value="$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java" />
+        <option value="$PROJECT_DIR$/build.xml" />
       </list>
     </option>
   </component>
@@ -261,8 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -279,38 +237,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Mariya_Polazhynets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mariya_Polazhynets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mariya_Polazhynets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mariya_Polazhynets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mariya_Polazhynets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Clasno" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -744,6 +670,19 @@
       <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Mariya_Polazhynets" />
@@ -873,20 +812,20 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44293016" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.2987897" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.30635402" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.70121026" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.693646" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18078668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18078668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.443686" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -909,7 +848,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Test ready" />
+    <MESSAGE value="Test is ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test is ready" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -931,24 +872,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Rozetka/com/ua/Rozetka_possitive_tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1125,7 +1048,7 @@
     <entry file="file://$PROJECT_DIR$/src/Rozetka/com/ua/uh.java" />
     <entry file="file://$PROJECT_DIR$/Mariya_Polazhynets.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="187">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
@@ -1150,27 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.xml.xsl" />
     <entry file="file://$PROJECT_DIR$/src/Suites/test.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1181,22 +1083,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.mdgit" />
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Rozetka/com/ua/Rozetka_negatine_tests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -1211,6 +1097,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-Report/TestNGreport/testng-reports.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-Report/TestNGreport/Tests/Chrome_Tests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Negative_tests/LoginInClasno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/ChangeLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/LoginInClasno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clasno/Positive_tests/MakeQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
