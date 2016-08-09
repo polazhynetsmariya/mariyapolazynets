@@ -14,7 +14,7 @@ public class LoginInClasno {
     String driver_path="/lib/chromedriver.exe";
     @Test
     public void LoginInClasno () {
-        System.setProperty("webdriver.chrome.driver", driver_path);
+        System.setProperty("webdriver.chrome.driver", driver_path );
         WebDriver driver = new ChromeDriver();
         driver.get("http://clasno.com.ua/");
         driver.findElement(By.id("login_form")).click();
