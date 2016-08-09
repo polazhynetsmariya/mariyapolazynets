@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Tests]">
+  <test name="Chrome_Tests(failed)">
+    <classes>
+      <class name="Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass">
+        <methods>
+          <include name="LoginInClasno"/>
+        </methods>
+      </class> <!-- Clasno.Negative_tests.LoginInClasno$LoginWithWrongPass -->
+      <class name="Clasno.Positive_tests.ChangeLanguage">
+        <methods>
+          <include name="LoginInClasno"/>
+        </methods>
+      </class> <!-- Clasno.Positive_tests.ChangeLanguage -->
+      <class name="Clasno.Positive_tests.MakeQuestion">
+        <methods>
+          <include name="LoginInClasno"/>
+        </methods>
+      </class> <!-- Clasno.Positive_tests.MakeQuestion -->
+      <class name="Clasno.Negative_tests.LoginInClasno">
+        <methods>
+          <include name="LoginInClasno"/>
+        </methods>
+      </class> <!-- Clasno.Negative_tests.LoginInClasno -->
+      <class name="Clasno.Positive_tests.LoginInClasno">
+        <methods>
+          <include name="LoginInClasno"/>
+        </methods>
+      </class> <!-- Clasno.Positive_tests.LoginInClasno -->
+    </classes>
+  </test> <!-- Chrome_Tests(failed) -->
+</suite> <!-- Failed suite [Tests] -->
